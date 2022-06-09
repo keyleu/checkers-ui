@@ -1,2 +1,1 @@
 # checkers-ui
-test2
