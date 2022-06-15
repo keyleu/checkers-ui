@@ -27,6 +27,7 @@
         "eject": "react-scripts eject"
     },
     "devDependencies": {
+        "@keplr-wallet/types": "0.10.2",
         "@types/lockr": "0.8.6",
         "@types/node": "17.0.24",
         "@types/query-string": "6.3.0",
